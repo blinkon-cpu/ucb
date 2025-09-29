@@ -185,10 +185,6 @@ blockquote {
   font-style: italic; 
 }
 
-/* ======================
-   RESPONSIVIDADE
-   ====================== */
-
 /* Tablets */
 @media (min-width: 481px) {
   h2 { font-size: 1.8rem; }
